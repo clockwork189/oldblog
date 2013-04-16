@@ -71,8 +71,7 @@ sauce</li>
 </ul>
 <h4>Lunch 2(pre workout2)  4:00pm-5:00pm</h4>
 <ul>
-	<li>2 Turkey/Beef/Chicken sandwiches with Tomatoes, olive and
-hot sauce	
+	<li>2 Turkey/Beef/Chicken sandwiches with Tomatoes, olive and hot sauce</li>
 	<li>1 Litre of Water</li>
 </ul>
 <h4>Dinner(post workout2) 7:30-8:30pm</h4>
